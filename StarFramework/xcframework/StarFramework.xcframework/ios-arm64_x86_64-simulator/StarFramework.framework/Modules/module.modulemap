@@ -1,0 +1,6 @@
+framework module StarFramework {
+  umbrella header "StarFramework.h"
+
+  export *
+  module * { export * }
+}
